@@ -11,7 +11,7 @@ function App() {
       <ul>
         <li>
           <a
-            href="https://dositan.vercel.app"
+            href="https://dositan-homepage.vercel.app"
             target="_blank"
             rel="noopener noreferrer"
           >
