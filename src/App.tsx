@@ -1,7 +1,12 @@
-import { IoHome, IoLogoGithub, IoLogoLinkedin, IoLogoTwitter } from "react-icons/io5";
+import {
+  IoHome,
+  IoLogoGithub,
+  IoLogoLinkedin,
+  IoLogoTwitter,
+} from "react-icons/io5";
 
 function App() {
-  const iconStyle = {width: 20, height: 20}
+  const iconStyle = { width: 20, height: 20 };
   return (
     <div className="App">
       <header>
@@ -11,7 +16,7 @@ function App() {
       <ul>
         <li>
           <a
-            href="https://dositan-homepage.vercel.app"
+            href="https://www.dosek.xyz/"
             target="_blank"
             rel="noopener noreferrer"
           >
